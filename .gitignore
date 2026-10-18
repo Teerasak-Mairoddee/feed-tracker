@@ -1,0 +1,6 @@
+# runtime data - never commit the feed log
+feeds.db
+*.db
+__pycache__/
+*.pyc
+.DS_Store
